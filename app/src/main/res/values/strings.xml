@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLE Advertiser</string>
+    <string name="already_started">Already started.</string>
+    <string name="data_too_large">Data too large.</string>
+    <string name="not_supported">Feature not supported.</string>
+    <string name="inter_err">Internal error.</string>
+</resources>
